@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <SetupAssignments>
+    <ConverterSetups>
+      <ConverterSetup>
+        <id>0</id>
+        <min>0.0</min>
+        <max>255.0</max>
+        <color>-1</color>
+        <groupId>0</groupId>
+      </ConverterSetup>
+    </ConverterSetups>
+    <MinMaxGroups>
+      <MinMaxGroup>
+        <id>0</id>
+        <fullRangeMin>0.0</fullRangeMin>
+        <fullRangeMax>255.0</fullRangeMax>
+        <rangeMin>0.0</rangeMin>
+        <rangeMax>255.0</rangeMax>
+        <currentMin>0.0</currentMin>
+        <currentMax>255.0</currentMax>
+      </MinMaxGroup>
+    </MinMaxGroups>
+  </SetupAssignments>
+  <ManualSourceTransforms>
+    <SourceTransform type="affine">
+      <affine>1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0</affine>
+    </SourceTransform>
+  </ManualSourceTransforms>
+  <Bookmarks />
+</Settings>
